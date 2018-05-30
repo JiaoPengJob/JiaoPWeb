@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    position: relative;
+}
+
+#index_content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#index_span_welcome {
+    color: white;
+    font-size: 50px;
+    font-family: "Footlight MT Light";
+}
+
+#index_info {
+    color: white;
+    font-size: 24px;
+    font-family: "Footlight MT Light";
+}
+
+.index_tags {
+    color: white;
+    font-size: 30px;
+    margin-left: 60px;
+}
