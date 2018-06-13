@@ -1,0 +1,33 @@
+.example {
+    padding: 20px;
+    color: white;
+}
+
+@media only screen and (max-width: 1080px) {
+    #index_content {
+        width: 100%;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (min-width: 1080px) {
+    #index_content {
+        width: 50%;
+        margin: 0 auto;
+    }
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: black;
+}
+
+#index_content {
+    height: 100%;
+    text-align: center;
+    background-color: white;
+}

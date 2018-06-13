@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+#index_content {
+    width: 50%;
+    height: max-content;
+    background-color: white;
+}
+
+#index_welcome{
+    color: white;
+    font-size: 36px;
+}
