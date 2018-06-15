@@ -5,48 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8ce55cf-5d65-4152-a047-137c94525379" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../JiaoP/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JiaoP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JiaoP/static/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JiaoP/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JiaoP/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/MyWeb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/MyWeb/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/MyWeb/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/MyWeb/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/MyWeb/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/jiaopWeb/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/jiaopWeb/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/jiaopWeb/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/jiaopWeb/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/jiaopWeb/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/jiaopWeb/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/jiaopWeb/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/css/blog_index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/css/life_index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/css/other_index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/imgs/android.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/imgs/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/imgs/life.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/imgs/linux.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/imgs/others.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/imgs/python.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/imgs/web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/static/imgs/windows.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/templates/blogs/blog_index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/templates/lifes/life_index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyWeb/templates/other/other_index.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imgs/search.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,21 +20,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="396">
+              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="768">
+              <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -86,14 +62,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/html/index.html" />
+        <option value="$PROJECT_DIR$/src/js/index.js" />
         <option value="$PROJECT_DIR$/src/css/index.css" />
+        <option value="$PROJECT_DIR$/src/html/index.html" />
       </list>
     </option>
   </component>
@@ -106,7 +84,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="963" />
     <option name="height" value="1057" />
   </component>
@@ -137,11 +115,22 @@
               <item name="src" type="cbb8eebc:String" user="src" />
               <item name="css" type="cbb8eebc:String" user="css" />
             </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="blogWeb" type="cbb8eebc:String" user="blogWeb" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="html" type="cbb8eebc:String" user="html" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="blogWeb" type="cbb8eebc:String" user="blogWeb" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="js" type="cbb8eebc:String" user="js" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,21 +138,31 @@
               <item name="blogWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="blogWeb" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="blogWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/SquirrelTemp/tempb/lib/net45/resources/app/git/mingw64/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\JiaoPWeb\blogWeb\src\imgs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\GitHub\JiaoPWeb\blogWeb\phone\css" />
       <recent name="E:\GitHub\JiaoPWeb\blogWeb\src\html" />
@@ -235,43 +234,45 @@
       <option name="presentableId" value="Default" />
       <updated>1528882614839</updated>
       <workItem from="1528882618214" duration="4999000" />
+      <workItem from="1529033790711" duration="12222000" />
+      <workItem from="1529046782244" duration="2464000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4999000" />
+    <option name="totallyTimeSpent" value="19685000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="963" height="1057" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2935586" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14479166" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,19 +282,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/css/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/js/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -301,6 +318,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phone/css/index.css" />
+    <entry file="file://$PROJECT_DIR$/phone/js/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="126" column="22" lean-forward="true" selection-start-line="126" selection-start-column="22" selection-end-line="126" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

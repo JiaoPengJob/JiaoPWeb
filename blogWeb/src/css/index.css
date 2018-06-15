@@ -3,18 +3,59 @@
     color: white;
 }
 
+/*设置屏幕样式，以1080为标准，小于判定为移动设备，大于设定为电脑浏览器*/
+/*移动设备样式*/
 @media only screen and (max-width: 1080px) {
+
+    /*内容布局*/
     #index_content {
         width: 100%;
         margin: 0 auto;
     }
+
+    /*顶布局，搜索布局*/
+    #index_search {
+        height: 60px;
+    }
+
+    /*搜索icon*/
+    #index_search_icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    /*搜索输入框*/
+    #index_search_input {
+        height: 40px;
+    }
+
 }
 
+/*电脑浏览器样式*/
 @media only screen and (min-width: 1080px) {
+
+    /*内容布局*/
     #index_content {
         width: 50%;
         margin: 0 auto;
     }
+
+    /*顶布局，搜索布局*/
+    #index_search {
+        height: 50px;
+    }
+
+    /*搜索icon*/
+    #index_search_icon {
+        width: 30px;
+        height: 30px;
+    }
+
+    /*搜索输入框*/
+    #index_search_input {
+        height: 30px;
+    }
+
 }
 
 html {
@@ -23,11 +64,65 @@ html {
 
 body {
     height: 100%;
+    margin: 0;
+    padding: 0;
     background-color: black;
 }
 
+/*内容布局*/
 #index_content {
     height: 100%;
     text-align: center;
-    background-color: white;
+}
+
+/*顶布局，搜索布局*/
+#index_search {
+
+}
+
+/*搜索icon*/
+#index_search_icon {
+    margin-right: 20px;
+    float: right;
+    margin-top: 10px;
+}
+
+/*搜索输入框*/
+#index_search_input {
+    width: 140px;
+    margin-right: 20px;
+    border: 1px solid #FFFFFF;
+    background: #00000000;
+    border-radius: 16px;
+    color: white;
+    outline: none;
+    font-size: 12px;
+    padding-left: 8px;
+    float: right;
+    margin-top: 8px;
+    display: none;
+}
+
+/* 设置输入框提示文字颜色 */
+::-webkit-input-placeholder {
+    color: #CCCCCC;
+}
+
+:-moz-placeholder {
+    color: #CCCCCC;
+    opacity: 1;
+}
+
+::-moz-placeholder {
+    color: #CCCCCC;
+    opacity: 1;
+}
+
+:-ms-input-placeholder {
+    color: #CCCCCC;
+}
+
+#index_title{
+    height: 160px;
+    padding-top: 60px;
 }
