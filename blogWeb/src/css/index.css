@@ -122,7 +122,50 @@ body {
     color: #CCCCCC;
 }
 
-#index_title{
+#index_title {
     height: 160px;
     padding-top: 60px;
 }
+
+/*菜单选项*/
+.index_menu_btn {
+    width: 80px;
+    height: 40px;
+    color: #FFFFFF;
+    background: none;
+    border: none;
+    outline: none;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 10px;
+}
+
+/*菜单栏线*/
+.index_menu_line {
+    width: 80px;
+    height: 1px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: white;
+}
+
+/*第二个菜单横线*/
+#index_menu_line2 {
+    visibility: hidden;
+}
+
+/*第三个菜单横线*/
+#index_menu_line3 {
+    visibility: hidden;
+}
+
+/*第四个菜单横线*/
+#index_menu_line4 {
+    visibility: hidden;
+}
+
+/*第五个菜单横线*/
+#index_menu_line5 {
+    visibility: hidden;
+}
+
