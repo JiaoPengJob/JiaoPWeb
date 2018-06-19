@@ -21,18 +21,86 @@
     <img src="../imgs/title_bg.jpeg"/>
     <div>
         <div>
-            <button class="index_menu_btn" onclick="showFirstMenuLine()" onmouseover="">首页</button>
-            <button class="index_menu_btn" onclick="showSecondMenuLine()" onmouseover="">博客</button>
-            <button class="index_menu_btn" onclick="showThirdMenuLine()" onmouseover="">日记</button>
-            <button class="index_menu_btn" onclick="showFourthMenuLine()" onmouseover="">随记</button>
-            <button class="index_menu_btn" onclick="showFifthMenuLine()" onmouseover="">其他</button>
+            <button id="index_menu_btn1" class="index_menu_btn" onclick="showFirstMenuLine()" style="color: #FFF8DC">
+                首页
+            </button>
+            <button id="index_menu_btn2" class="index_menu_btn" onclick="showSecondMenuLine()">博客
+            </button>
+            <button id="index_menu_btn3" class="index_menu_btn" onclick="showThirdMenuLine()">日记</button>
+            <button id="index_menu_btn4" class="index_menu_btn" onclick="showFourthMenuLine()">随记
+            </button>
+            <button id="index_menu_btn5" class="index_menu_btn" onclick="showFifthMenuLine()">其他</button>
         </div>
-        <div>
+        <div style="margin-top: -10px">
             <img id="index_menu_line1" class="index_menu_line"/>
             <img id="index_menu_line2" class="index_menu_line"/>
             <img id="index_menu_line3" class="index_menu_line"/>
             <img id="index_menu_line4" class="index_menu_line"/>
             <img id="index_menu_line5" class="index_menu_line"/>
+        </div>
+    </div>
+    <div style="margin-top: 10px">
+        <div id="index_left_menu"></div>
+        <div id="index_right_menu">
+            <p style="color: white;margin-left: 20px;font-size: 20px;font-family:微软雅黑 Light">标签</p>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">Android</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">Java</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">Python</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">Web</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">Linux</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">Windows</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">PostgreSQL</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">Numpy</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">Kotlin</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">IDEA</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">日记</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">随记</a>
+            </div>
+            <div>
+                <img class="index_img_tags" src="../imgs/tag.png">
+                <a class="index_btn_tags" href="index.html">其他</a>
+            </div>
+        </div>
+        <div>
+            <a href="index.html"
+               style="float: left;font-size: 20px;color: white;text-decoration-line: none;margin-left: 20px;margin-top: 10px;
+                    font-family: 微软雅黑 Light;">关于我</a>
+            <img src="../imgs/right_point.png" style="margin-top: 15px;float: left;margin-left: 4px"/>
         </div>
     </div>
 </div>

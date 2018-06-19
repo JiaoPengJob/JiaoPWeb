@@ -4,7 +4,6 @@ window.onload = function () {
         searchInput.style.display = 'none';
         document.getElementById('index_search_icon').style.display = 'block';
     }
-
 }
 
 /**
@@ -25,6 +24,11 @@ function showFirstMenuLine() {
     document.getElementById('index_menu_line3').style.visibility = 'hidden';
     document.getElementById('index_menu_line4').style.visibility = 'hidden';
     document.getElementById('index_menu_line5').style.visibility = 'hidden';
+    document.getElementById('index_menu_btn1').style.color = '#FFF8DC';
+    document.getElementById('index_menu_btn2').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn3').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn4').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn5').style.color = '#FFFFFF';
 }
 
 /**
@@ -36,6 +40,11 @@ function showSecondMenuLine() {
     document.getElementById('index_menu_line3').style.visibility = 'hidden';
     document.getElementById('index_menu_line4').style.visibility = 'hidden';
     document.getElementById('index_menu_line5').style.visibility = 'hidden';
+    document.getElementById('index_menu_btn1').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn2').style.color = '#FFF8DC';
+    document.getElementById('index_menu_btn3').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn4').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn5').style.color = '#FFFFFF';
 }
 
 /**
@@ -47,6 +56,11 @@ function showThirdMenuLine() {
     document.getElementById('index_menu_line3').style.visibility = 'visible';
     document.getElementById('index_menu_line4').style.visibility = 'hidden';
     document.getElementById('index_menu_line5').style.visibility = 'hidden';
+    document.getElementById('index_menu_btn1').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn2').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn3').style.color = '#FFF8DC';
+    document.getElementById('index_menu_btn4').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn5').style.color = '#FFFFFF';
 }
 
 /**
@@ -58,6 +72,11 @@ function showFourthMenuLine() {
     document.getElementById('index_menu_line3').style.visibility = 'hidden';
     document.getElementById('index_menu_line4').style.visibility = 'visible';
     document.getElementById('index_menu_line5').style.visibility = 'hidden';
+    document.getElementById('index_menu_btn1').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn2').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn3').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn4').style.color = '#FFF8DC';
+    document.getElementById('index_menu_btn5').style.color = '#FFFFFF';
 }
 
 /**
@@ -69,4 +88,9 @@ function showFifthMenuLine() {
     document.getElementById('index_menu_line3').style.visibility = 'hidden';
     document.getElementById('index_menu_line4').style.visibility = 'hidden';
     document.getElementById('index_menu_line5').style.visibility = 'visible';
+    document.getElementById('index_menu_btn1').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn2').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn3').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn4').style.color = '#FFFFFF';
+    document.getElementById('index_menu_btn5').style.color = '#FFF8DC';
 }

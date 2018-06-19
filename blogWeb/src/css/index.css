@@ -29,6 +29,16 @@
         height: 40px;
     }
 
+    /*左边展示内容*/
+    #index_left_menu {
+        width: 100%;
+    }
+
+    /*右边目录内容*/
+    #index_right_menu {
+        display: none;
+    }
+
 }
 
 /*电脑浏览器样式*/
@@ -54,6 +64,18 @@
     /*搜索输入框*/
     #index_search_input {
         height: 30px;
+    }
+
+    /*左边展示内容*/
+    #index_left_menu {
+        width: 80%;
+    }
+
+    /*右边目录内容*/
+    #index_right_menu {
+        display: block;
+        width: 20%;
+        float: right;
     }
 
 }
@@ -85,6 +107,7 @@ body {
     margin-right: 20px;
     float: right;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 /*搜索输入框*/
@@ -131,13 +154,14 @@ body {
 .index_menu_btn {
     width: 80px;
     height: 40px;
-    color: #FFFFFF;
+    color: white;
     background: none;
     border: none;
     outline: none;
     margin-left: 2px;
     margin-right: 2px;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 /*菜单栏线*/
@@ -146,7 +170,7 @@ body {
     height: 1px;
     padding-left: 2px;
     padding-right: 2px;
-    background-color: white;
+    background-color: #FFF8DC;
 }
 
 /*第二个菜单横线*/
@@ -167,5 +191,33 @@ body {
 /*第五个菜单横线*/
 #index_menu_line5 {
     visibility: hidden;
+}
+
+/*左边展示内容*/
+#index_left_menu {
+    background-color: white;
+    height: 1000px;
+    float: left
+}
+
+/*右边目录内容*/
+#index_right_menu {
+    text-align: left;
+    /*background-color: red;*/
+}
+
+/*标签icon*/
+.index_img_tags {
+    margin-left: 30px;
+    vertical-align: middle;
+}
+
+/*右侧标签*/
+.index_btn_tags {
+    text-decoration-line: none;
+    color: white;
+    font-family: 楷体;
+    font-size: 16px;
+    vertical-align: middle;
 }
 
